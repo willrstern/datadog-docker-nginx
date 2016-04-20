@@ -17,3 +17,4 @@ server {
 }
 ```
 * Run nginx as `nginx` on the same overlay network as your running willrstern/datadog-nginx container
+* Datadog will get stats from [this url](https://github.com/willrstern/datadog-docker-nginx/blob/master/nginx.yaml#L4)
