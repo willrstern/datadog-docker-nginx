@@ -1,7 +1,9 @@
 # willrstern/datadog-nginx
 
 ####Get Nginx metrics on Datadog with Docker:
+`willrstern/datadog-nginx` simply adds nginx to `datadog/docker-dd-agent`
 
+All that's left is to:
 * Add this server to your nginx config
 
 ```
